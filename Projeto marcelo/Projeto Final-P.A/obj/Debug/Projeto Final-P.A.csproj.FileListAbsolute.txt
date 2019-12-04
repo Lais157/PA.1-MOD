@@ -1,0 +1,40 @@
+F:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\bin\Debug\Projeto Final-P.A.exe.config
+F:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\bin\Debug\Projeto Final-P.A.exe
+F:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\bin\Debug\Projeto Final-P.A.pdb
+F:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.csprojResolveAssemblyReference.cache
+F:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Form1.resources
+F:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Properties.Resources.resources
+F:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.csproj.GenerateResource.Cache
+F:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.exe
+F:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.pdb
+F:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Form2.resources
+F:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Form3.resources
+D:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\bin\Debug\Projeto Final-P.A.exe.config
+D:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\bin\Debug\Projeto Final-P.A.exe
+D:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\bin\Debug\Projeto Final-P.A.pdb
+D:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.csprojAssemblyReference.cache
+D:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Form1.resources
+D:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Form2.resources
+D:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Form3.resources
+D:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Properties.Resources.resources
+D:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.csproj.GenerateResource.cache
+D:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.exe
+D:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.pdb
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\bin\Debug\Projeto Final-P.A.exe.config
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.exe
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.pdb
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\bin\Debug\Projeto Final-P.A.exe
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\bin\Debug\Projeto Final-P.A.pdb
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Form1.resources
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Form2.resources
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Form3.resources
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto_Final_P.A.Properties.Resources.resources
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.csproj.GenerateResource.Cache
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.csprojAssemblyReference.cache
+E:\ETEC-Centro Paula Souza\P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.csproj.CoreCompileInputs.cache
+C:\Users\Padrão\Desktop\Projeto Final-P.A\Projeto Final-P.A\bin\Debug\Projeto Final-P.A.exe.config
+C:\Users\Padrão\Desktop\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.exe
+C:\Users\Padrão\Desktop\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.pdb
+C:\Users\Aluno\Downloads\Projeto Final-P.A\Projeto Final-P.A\Projeto Final-P.A\bin\Debug\Projeto Final-P.A.exe.config
+C:\Users\Aluno\Downloads\Projeto Final-P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.exe
+C:\Users\Aluno\Downloads\Projeto Final-P.A\Projeto Final-P.A\Projeto Final-P.A\obj\Debug\Projeto Final-P.A.pdb
